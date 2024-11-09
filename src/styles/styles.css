@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.content {
+    margin: 5rem;
+}
+
+.error {
+    color: rgb(255, 0, 0);
+}
